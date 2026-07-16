@@ -1,6 +1,25 @@
-# Intro to Astro – My Learning & Assignment Portfolio
+cat << 'EOF' > README.md
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/26vUSsA7qFftHyl8s/giphy.gif" alt="Rotating Exoplanet" width="300"/>
 
-Welcome to my central repository for the international astronomy and data science program. This space serves as my continuous academic logbook, hosting rigorous programming assignments, astrophysical calculations, data science notebooks, and pipeline deployment benchmarks.
+  <h1>🌌 Intro to Astro: Exoplanet Detection & Deep Learning 🌌</h1>
+  
+  **Astro-Portfolio of Kemal Sadık Demirbaş | Software Architect & Data Scientist**
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+  
+  <i>Welcome to my central repository for the international astronomy and data science program. This space serves as my continuous academic logbook, hosting rigorous programming assignments, astrophysical calculations, data science notebooks, and pipeline deployment benchmarks.</i>
+  
+</div>
+
+<br>
 
 ## 🌌 Program Overview
 * **Role:** Student / Software Architect
@@ -30,9 +49,9 @@ Welcome to my central repository for the international astronomy and data scienc
 * **Planetary Interior Inference:** Evaluated mass-radius dimensions against core theoretical equations of state, classifying the targeted object as a volatile-rich, water-dominated sub-Neptune or liquid ocean world.
   * 📂 **[View Notebook: Exoplanet Detection Methods](./week2/Intro2Astro_Exoplanet_Detection_Methods%20(1).ipynb)**
   * 📂 **[View Notebook: Python & Jupyter Tutorial](./week2/Python_Tutorial.ipynb)**
-* 📄 **Literature Survey:** Deep dive into the exoplanet detection review paper by Lee (2018).
-  * 📥 **[Read/Download the Original Review Paper (PDF)](./week2/Lee_2018_Exoplanets_Review.pdf)**
-  * 📝 **[Read My Analytical Discussion & Questions (PDF)](./week2/Literature%20Review%20Questions%20-%20Lee%202018.pdf)**
+* 📄 **Literature Survey:** Deep dive into the exoplanet detection review paper by Lee (2018)[cite: 1, 2].
+  * 📥 **[Read/Download the Original Review Paper (PDF)](./week2/Lee_2018_Exoplanets_Review.pdf)**[cite: 1]
+  * 📝 **[Read My Analytical Discussion & Questions (PDF)](./week2/Literature%20Review%20Questions%20-%20Lee%202018.pdf)**[cite: 2]
 
 ---
 
@@ -53,3 +72,4 @@ The definitive multi-dimensional joint and marginal posterior probability distri
 ---
 
 ***Maintained with 🖥️ by Kemal Sadık Demirbaş.***
+EOF
